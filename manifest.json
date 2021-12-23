@@ -20,7 +20,7 @@
     "background": {
         "service_worker": "background.js"
     },
-    "permissions": ["storage", "activeTab", "tabs", "scripting"],
+    "permissions": ["storage", "tabs", "scripting"],
     "host_permissions": ["*://*.youtube.com/*"],
     "action": {
         "default_popup": "popup.html",
