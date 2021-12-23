@@ -12,4 +12,4 @@ The extension does not collect, transmit or share any information, personal or o
 
 ## Local installation
 
-Download and uncompress (or clone) this GitHub repository to your computer. Then head over to [chrome://extensions](chrome://extensions) and enable Developer Mode by clicking the toggle switch next to Developer mode in the top-right corner. Finally, click the Load unpacked button in the top-left corner and select the downloaded extension directory. The extension is now active.
+Download and uncompress (or clone) this GitHub repository to your computer. Then head over to [chrome://extensions](chrome://extensions) (or click Extensions > Manage Extensions) and enable Developer Mode by clicking the toggle switch next to Developer mode in the top-right corner. Finally, click the Load unpacked button in the top-left corner and select the downloaded extension directory. The extension is now installed and active!
