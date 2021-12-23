@@ -2,7 +2,7 @@
 
 **Collection of Personal Information**
 
-The extension does not collect, transmit or share any information, personal or otherwise, nor uses any third-party analytics or advertising frameworks. It only saves
+The extension does not collect, transmit or share any information, personal or otherwise, nor uses any third-party analytics or advertising frameworks.
 
 **Email**
 
