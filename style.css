@@ -1,0 +1,40 @@
+h1 {
+    font-size: 15px;
+    white-space: nowrap;
+    font-weight: normal;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: flex;
+    flex-direction: row;
+}
+
+.name {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: block;
+    max-width: 300px;
+}
+
+.count {
+    margin-right: 5px;
+    font-weight: bold;
+}
+
+.cross {
+    margin-right: 5px;
+    color: #666;
+    cursor: pointer;
+    user-select: none;
+}
+
+.cross:hover {
+    color: #000;
+}
