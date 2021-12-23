@@ -1,7 +1,13 @@
 {
     "name": "YouTube Sort Subscriptions",
-    "description": "Sort video recommendations by interest.",
-    "version": "1.0",
+    "description": "Sort YouTube video subscriptions by interest.",
+    "version": "1.0.0",
+    "icons": {
+        "16": "/images/icon_yt_16.png",
+        "32": "/images/icon_yt_32.png",
+        "48": "/images/icon_yt_48.png",
+        "128": "/images/icon_yt_128.png"
+    },
     "author": "Nathan Lichtlé",
     "homepage_url": "https://github.com/nathanlct/youtube-sort-subscriptions",
     "manifest_version": 3,
