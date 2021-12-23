@@ -1,4 +1,4 @@
-Do you have tons of YouTube subscriptions and sometimes miss video releases from channels you usually watch? This lightweight extension will sort your YouTube subscription videos by interest.
+Do you have tons of YouTube subscriptions and sometimes miss video releases from channels you usually watch? This lightweight extension will sort your YouTube video subscriptions by interest.
 
 ## Description
 
